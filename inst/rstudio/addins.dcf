@@ -1,0 +1,4 @@
+Name: Unravel code
+Description: Unravels tidyverse highlighted code
+Binding: unravel_addin
+Interactive: true
